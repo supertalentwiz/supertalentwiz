@@ -1,4 +1,5 @@
+   <a href=#><img src="aboutme.png"></a>
    <a href=#><img src="contributions.svg"></a>
    <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+   </p>
