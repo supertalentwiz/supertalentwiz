@@ -10,7 +10,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="./skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angualrangular-3-logo-svgrepo-com.svg" alt="Angular" height="50" /></a>  
+<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angular-3-logo-svgrepo-com.svg" alt="Angular" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
