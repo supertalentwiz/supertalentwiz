@@ -60,7 +60,7 @@
 </td></tr></table>  
 
 <br/>  
-   <a href=#><img src="contributions.svg"></a>
+   <a href=#><img src="contributions.svg" width="100%"></a>
    <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
    </p>
