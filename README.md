@@ -71,11 +71,12 @@
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
   <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=skype&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=skype&logoColor=white alt=skype style="margin-bottom: 5px;" />
+</a>  
+   <a href="#" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
