@@ -54,7 +54,7 @@
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="./skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="./skills-assets/aws-lambda-svgrepo-com.svg" alt="AWS Lambda" height="50" /></a>  
-<a href="https://www.geeksforgeeks.org/unit-testing-software-testing/" target="_blank"><img style="margin: 10px" src="./skills-assets/graphql.png" alt="Unit Testing" height="50" /></a>  
+<a href="https://www.geeksforgeeks.org/unit-testing-software-testing/" target="_blank"><img style="margin: 10px" src="./skills-assets/unit-testing-svgrepo-com.svg" alt="Unit Testing" height="50" /></a>  
 </div>
 
 </td></tr></table>
