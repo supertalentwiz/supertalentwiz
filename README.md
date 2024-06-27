@@ -67,7 +67,7 @@
 <a href="https://join.skype.com/invite/BGmFvgMLdCR2" target="_blank">
 <img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=skype&logoColor=white alt=skype style="margin-bottom: 5px;" />
 </a>  
-   <a href="https://t.me/shinesoftdev086" target="_blank">
+   <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 <a href="#" target="_blank">
