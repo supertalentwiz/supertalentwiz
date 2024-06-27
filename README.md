@@ -9,8 +9,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="./skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angualrangular-3-logo-svgrepo-com.svg" alt="Angular" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -25,12 +26,13 @@
 ### Backend
 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="./skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/nestjs.svg" alt="Nest.js" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="./skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
