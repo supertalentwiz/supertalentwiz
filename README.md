@@ -75,12 +75,12 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=skype&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 <br/>  
    <a href=#><img src="contributions.svg" width="100%"></a>
    <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
    </p>
