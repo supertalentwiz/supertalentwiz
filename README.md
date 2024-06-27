@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-### Database && Other
+### Database & Other
 
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
