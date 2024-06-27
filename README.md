@@ -10,7 +10,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="./skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angular-3-logo-svgrepo-com.svg" alt="Angular" height="50" /></a>  
+<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/nextjs-svgrepo-com.svg" alt="Next" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
@@ -43,15 +44,17 @@
 ### Database & Other
 
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="./skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="./skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="./skills-assets/aws-lambda-svgrepo-com.svg" alt="AWS Lambda" height="50" /></a>  
+<a href="https://www.geeksforgeeks.org/unit-testing-software-testing/" target="_blank"><img style="margin: 10px" src="./skills-assets/graphql.png" alt="Unit Testing" height="50" /></a>  
 </div>
 
 </td></tr></table>
