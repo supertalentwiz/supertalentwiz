@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+## Frontend
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -24,7 +24,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend
+## Backend
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -41,7 +41,7 @@
 
 </td><td valign="top" width="33%">
 
-### Database & Other
+## Database & Other
 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
