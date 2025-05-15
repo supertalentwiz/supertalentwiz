@@ -34,7 +34,7 @@
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/django-original.svg" alt="Django" height="50" /></a>
-<a href="https://www.rubyonrails.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/rails-1.svg" alt="Django" height="50" /></a>
+<a href="https://www.rubyonrails.org/" target="_blank"><img style="margin: 10px, width: 200px" src="./skills-assets/rails-1.svg" alt="Django" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
