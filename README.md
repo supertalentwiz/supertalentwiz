@@ -63,13 +63,13 @@
 
 
 <div align="center">
-<a href="https://github.com/0806SunnyDev" target="_blank">
+<a href="https://github.com/rainbowwiz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/supersoftwiz" target="_blank">
+<a href="https://t.me/rainbowwiz86" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://wa.me/18034749175" target="_blank">
+<a href="https://wa.me/380994750163" target="_blank">
 <img src=https://img.shields.io/badge/whatsapp-%2308090A.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
 </a>
 <a href="#" target="_blank">
