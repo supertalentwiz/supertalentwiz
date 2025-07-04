@@ -5,10 +5,10 @@
 ## Frontend
 
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./skills-assets/javascript-original.svg" alt="JavaScript" width="50" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="./skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 <a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="./skills-assets/nextjs.png" alt="Next" height="50" /></a>  
