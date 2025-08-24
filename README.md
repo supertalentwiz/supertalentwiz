@@ -1,5 +1,3 @@
-// <a href=#><img src="aboutme.png"></a>
-
 <table><tr><td valign="top" width="33%">
 
 ## Frontend
@@ -83,5 +81,6 @@
    <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
    </p>
+
 
 
